@@ -1,7 +1,7 @@
-# [Nombre de tu Proyecto de Cuentas]
+# Proyecto DevOps y CI/CD
+
 
 ![Build Status](https://github.com/[TU_USUARIO]/[TU_REPOSITORIO]/actions/workflows/ci-build.yaml/badge.svg)
-
 ## Descripción
 Este microservicio forma parte del laboratorio de CI/CD y permite la gestión de cuentas mediante una API REST...
 
