@@ -1,3 +1,11 @@
+# [Nombre de tu Proyecto de Cuentas]
+
+![Build Status](https://github.com/[TU_USUARIO]/[TU_REPOSITORIO]/actions/workflows/ci-build.yaml/badge.svg)
+
+## Descripción
+Este microservicio forma parte del laboratorio de CI/CD y permite la gestión de cuentas mediante una API REST...
+
+
 # DevOps Capstone Template
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
